@@ -26,7 +26,7 @@ const Portfolio = function() {
 				text: "django",
 				weight: 15
 			}, {
-				text: "newText",
+				text: "Flask",
 				weight: 7
 			}
 		];
